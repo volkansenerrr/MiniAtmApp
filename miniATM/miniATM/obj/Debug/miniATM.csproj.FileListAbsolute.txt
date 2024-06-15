@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\miniATM\miniATM\bin\Debug\miniATM.exe.config
+C:\Users\I-Life\source\repos\miniATM\miniATM\bin\Debug\miniATM.exe
+C:\Users\I-Life\source\repos\miniATM\miniATM\bin\Debug\miniATM.pdb
+C:\Users\I-Life\source\repos\miniATM\miniATM\obj\Debug\miniATM.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\miniATM\miniATM\obj\Debug\miniATM.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\miniATM\miniATM\obj\Debug\miniATM.exe
+C:\Users\I-Life\source\repos\miniATM\miniATM\obj\Debug\miniATM.pdb
